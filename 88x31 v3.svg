@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 88 31" width="88px" height="31px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <title>Content</title>
+    <rect width="88" height="31" style="fill: rgb(33, 33, 33);"/>
+    <image width="46" height="7" x="94" y="12" shape-rendering="crispEdges&quot; width=&quot;46" style="image-rendering: pixelated;" xlink:href="data:image/png;charset=utf-8;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAHCAYAAAB3Gn/JAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGhJREFUOMvNUssKwDAMqiP//8vtZYMisZFcOo95ijrmi5GA62pO7bnzHTwAoJqn3m1EpRqT31Xce45rjhB859tJ73SjoiJR1V3Sp7/xJ/sBwHXoKvEsjhw/RT6qIa5nirBS3YyrfGdOLMb7g99Ka/UFAAAAAElFTkSuQmCC">
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-58 0;-58 0;-2 0;-2 0;-58 0" dur="3.25s" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" restart="never" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0.42 0 1 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+    </image>
+  </g>
+  <g style="">
+    <title>Sidebar</title>
+    <rect width="88" height="31" style="fill: rgb(55, 55, 55);">
+      <animate attributeName="width" values="32;32;88;88;32" dur="3.25s" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+    </rect>
+    <g>
+      <image x="31.5" y="3" width="25" height="25" shape-rendering="crispEdges&quot; width=&quot;25" style="border-radius: 99%; image-rendering: pixelated;" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAMAAADzN3VRAAAAh1BMVEUAAABIKChGKCZFKCVGKCUpDg0qDg0oEAxoSEhHKCVGKCVpSkYpDgwpDg0oDQ1qSkYqDg5pSUVpSkbqwr5GKCRoTEjrw7+fODieOTfLl5Lpwr3///////////////////9IKCT////ghYEpDQ3pwr0oEBDPl4/hhYDqwr3Ll5LMl5LLl5HNl5KY50QcAAAALXRSTlMAIIC/3/+fQCCf////32CAgL/fv/9AQGD/////gL/fn0BA/7/fICCfYL/fgGCkJBDZAAABJElEQVR4nF2Si1YCMQxEC0sUEhAEH00qDysioP//fU7agovTs3u6vZlsmjaEpsGwG9FodHcfbjWesIgwE09nD30wxyIAMRjR4g88+gq7hDCR5QV0JdQ9kJtlVcGCruKSFM+8FMXU01PxyPLZc9Gtqq0DmV4XuJZW2Ut4jdE/1MxIkxUkltJbmHBscyM2k2LSlNZhRp4C05RKopra0ibw1W+XIkvkJrT9gaTSgAoRic7UOBBFY7h5dF2It8tNVBqOQZa2YSdOYkQ9prUBeKf0HsadmzTnGLElUYjFSwth14izyCUhiPctDEGyZgTnynPWegyDDxKtSA0Djdq3k/ucSDYEasaf+gCuORJZi1db9a/I4aumgvbHf/fqcDyd7Hz+/rks/AJKFB5D6UdnJAAAAABJRU5ErkJggg==">
+        <animateTransform type="translate" additive="sum" attributeName="transform" values="-28 0;-28 0;0 0;0 0;-28 0" dur="3.25s" calcMode="spline" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+        <animate attributeName="overflow" values="hidden;hidden;visible;visible;hidden" dur="3.25s" fill="freeze" calcMode="discrete" keyTimes="0; 0.61538; 0.69231; 0.92308; 1"/>
+      </image>
+    </g>
+  </g>
+</svg>

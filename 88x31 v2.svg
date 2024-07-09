@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 88 31" width="88px" height="31px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <title>Content</title>
+    <rect width="88" height="31" style="fill: rgb(33, 33, 33);"/>
+    <image width="46" height="7" x="94" y="12" shape-rendering="crispEdges&quot; width=&quot;46" xlink:href="data:image/png;charset=utf-8;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAHCAYAAAB3Gn/JAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGhJREFUOMvNUssKwDAMqiP//8vtZYMisZFcOo95ijrmi5GA62pO7bnzHTwAoJqn3m1EpRqT31Xce45rjhB859tJ73SjoiJR1V3Sp7/xJ/sBwHXoKvEsjhw/RT6qIa5nirBS3YyrfGdOLMb7g99Ka/UFAAAAAElFTkSuQmCC">
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-58 0;-58 0;-2 0;-2 0;-58 0" dur="3.25s" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" restart="never" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0.42 0 1 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+    </image>
+  </g>
+  <g style="">
+    <title>Sidebar</title>
+    <rect width="88" height="31" style="fill: rgb(55, 55, 55);">
+      <animate attributeName="width" values="32;32;88;88;32" dur="3.25s" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+    </rect>
+    <image x="31.5" y="3" width="25" height="25" shape-rendering="crispEdges&quot; width=&quot;25" style="" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAABF1JREFUSImNlk9IHHcUxz+/VWKNa7a7xIluqu7umGidSCGGgmUlomiq0ba0UgoloQQqtkHsISWlOSQ9KLU5iYeK0FLSSwg5RatQUQoKuWRPzaYm7j/ddLt10TE6MQ00Tg/Zmc6OGvIuv933e+/73vf93u/3RvACaa+qKniWRzdCtAL1gC+ZSjvLvaUakEim0iGBmK6UpJtTkcjTvXDEbsqueu/+1w4d64/G4j2ATw74zb1oLA5AMpWm3FtKMvUXIBK6YKyoqHg4lEpt2fEcdkVbdXXz4dK6W8Ag4LPuRWNxkqk0AOXeUmuePqEzuKVptxSXs/mFTE5VV30oy4FvIrF4jaEzMraLHPDz2/ztLJvnNnLAj4CFT7pOX37zs/4bhm2elQGCq2vqek4AgONv1OFxu1HVdZKpNBubGonlhwC4ip24ip1YSnrw3Q/er9PS6T/uRKJxk0lXvXd/ZFG7BXrLjpR3ESszA9w4K+O/LsTMn+nf3xkPpbbyAHyusguu4qJPNza1l4nBxqbGxqaGq7gIVV1HVdeRA348brdpIyBwwCk9vrMYnRftVVUFz/LFQjKV9r0Q+SWY2VkBibx/9Zr8pZWVbp1t3x7dnANgcQbLmRmrIZZgvp9+GO3Ov6DUtoIOwNXwvRzwgf4+KhTF1DV1vse1oQFO9PaxMjfLmZ7enADJVJqmYANXvrqI1Gh2cqvjurpaf11d28FADvipUBSkxmarA5eGR1iZm83J2CrRWJzlcNiqqhevHyjeBJxGWYzMjIytUus6sKOM9lIZez+PjRrJaY5yb6nTuFBWhx/HJ8yMAVbmZnNa125vD2xh43TIsn/XvrUfstTYbJbHALO/BHskqTnQSewWJJlKc6anN0d3rqvT/N0UbNjhYw16rqvTYJNwoBOyG1oBrCWzn5Ec8NMUbMjxMdYKRTHsQ45oLDa9W5d8qdTykdvDmZ5e7oyOmAGvDQ2ArZz2UdAUbLB25LToa28vuB+PLGQHkslmoL+PkjUVgNmJSQBODw2aYFe+HcopH9n2lgN+6z1JADX5I1NTT9tqjo6BPsge0tzZAcAvF7/+P2N1jbMXL5lPvJ0RwOenT419P/nr03wA35Hq4aUHCy2A+QqXrKlkPG5zBag7+7HJzjqZDKZGMtkDn3n4991hgHyAsfHxrbbq6kEBh3WokQP+nADWQMZaoSgsh8NUKAp1WV1h9gkqFyzo2wyOh56PYnNoRVdX4yWv7MuUe8vqPG73wbaSEgobg+y7/wCArcJCk+HBEycAcEmSeemMN04XLDi2xeVDJ1smDOycGX/vkXYD3XFeF2Im43HzZG7+eYaNQROksDHIcji8AzwrM2xzXjrZfMOqzMMm0dXV+PGa2pvHjwYeFz35R8543K8+ymR4lMnklMglSaaPS5ISAvHds/1bX5S99fYDO+buQyQri5OTBepSpLtSOda6HL5bD/gqFMW5HA5rQEJHhECfdldW3TzS0bHnd9d/iIDV/t9nL4EAAAAASUVORK5CYII=">
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-28 0;-28 0;0 0;0 0;-28 0" dur="3.25s" calcMode="spline" keyTimes="0; 0.61538; 0.69231; 0.92308; 1" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite"/>
+    </image>
+  </g>
+</svg>

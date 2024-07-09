@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 88 31" width="88px" height="31px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-0" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%" bx:preset="drop-shadow 1 0 0 1 1 rgba(0,0,0,0.12)">
+      <title>Drop shadow</title>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.12)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="drop-shadow-filter-2" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%" bx:preset="drop-shadow 1 0 0 2 0.75 rgba(0,0,0,0.3)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g>
+    <title>Content</title>
+    <rect width="88" height="31" style="fill: rgb(36, 36, 36);"/>
+    <image width="46" height="7" x="94" y="12" shape-rendering="crispEdges&quot; width=&quot;46" style="image-rendering: pixelated;" xlink:href="data:image/png;charset=utf-8;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAHCAYAAAB3Gn/JAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGhJREFUOMvNUssKwDAMqiP//8vtZYMisZFcOo95ijrmi5GA62pO7bnzHTwAoJqn3m1EpRqT31Xce45rjhB859tJ73SjoiJR1V3Sp7/xJ/sBwHXoKvEsjhw/RT6qIa5nirBS3YyrfGdOLMb7g99Ka/UFAAAAAElFTkSuQmCC">
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-57 0;-57 0;-2 0;-2 0;-57 0" dur="3s" keyTimes="0; 0.66667; 0.75; 0.91667; 1" restart="never" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0.42 0 1 1; 0.5 1 0.89 1" repeatCount="indefinite" fill="freeze"/>
+    </image>
+  </g>
+  <g>
+    <title>Sidebar</title>
+    <rect width="88" height="31" style="fill: rgb(55, 55, 55); shape-rendering: crispedges; filter: url('#drop-shadow-filter-0');">
+      <animate attributeName="width" values="32;32;88;88;32" dur="3s" keyTimes="0; 0.66667; 0.75; 0.91667; 1" calcMode="spline" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite" fill="freeze"/>
+    </rect>
+    <image x="31.5" y="3" width="25" height="25" shape-rendering="crispEdges&quot; width=&quot;25" style="border-radius: 99%; image-rendering: pixelated; filter: url('#drop-shadow-filter-2');" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAMAAADzN3VRAAAAh1BMVEUAAABIKChGKCZFKCVGKCUpDg0qDg0oEAxoSEhHKCVGKCVpSkYpDgwpDg0oDQ1qSkYqDg5pSUVpSkbqwr5GKCRoTEjrw7+fODieOTfLl5Lpwr3///////////////////9IKCT////ghYEpDQ3pwr0oEBDPl4/hhYDqwr3Ll5LMl5LLl5HNl5KY50QcAAAALXRSTlMAIIC/3/+fQCCf////32CAgL/fv/9AQGD/////gL/fn0BA/7/fICCfYL/fgGCkJBDZAAABJElEQVR4nF2Si1YCMQxEC0sUEhAEH00qDysioP//fU7agovTs3u6vZlsmjaEpsGwG9FodHcfbjWesIgwE09nD30wxyIAMRjR4g88+gq7hDCR5QV0JdQ9kJtlVcGCruKSFM+8FMXU01PxyPLZc9Gtqq0DmV4XuJZW2Ut4jdE/1MxIkxUkltJbmHBscyM2k2LSlNZhRp4C05RKopra0ibw1W+XIkvkJrT9gaTSgAoRic7UOBBFY7h5dF2It8tNVBqOQZa2YSdOYkQ9prUBeKf0HsadmzTnGLElUYjFSwth14izyCUhiPctDEGyZgTnynPWegyDDxKtSA0Djdq3k/ucSDYEasaf+gCuORJZi1db9a/I4aumgvbHf/fqcDyd7Hz+/rks/AJKFB5D6UdnJAAAAABJRU5ErkJggg==">
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-28 0;-28 0;0 0;0 0;-28 0" dur="3s" calcMode="spline" keyTimes="0; 0.66667; 0.75; 0.91667; 1" keySplines="0.5 1 0.89 1; 0.5 1 0.89 1; 0 0 0.58 1; 0.5 1 0.89 1" repeatCount="indefinite" fill="freeze"/>
+    </image>
+  </g>
+</svg>
